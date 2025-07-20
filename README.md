@@ -1,7 +1,7 @@
 
 ## 📄 Descripción del proyecto
 
-Toda la documentación, análisis y objetivos desaroolados de la mano con los stakeholders están detallados en el archivo [`Northwind.pdf`](./Northwind.pdf).
+Toda la documentación, análisis y objetivos desarrollados de la mano con los stakeholders están detallados en el archivo [`Northwind.pdf`](./Northwind.pdf).
 
 ## 🚀 Dashboard en línea
 
