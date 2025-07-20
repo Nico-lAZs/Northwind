@@ -7,3 +7,4 @@ matplotlib
 scikit-learn
 statsmodels
 numpy
+psycopg2-binary
